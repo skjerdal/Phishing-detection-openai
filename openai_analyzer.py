@@ -8,10 +8,8 @@ app = Flask(__name__)
 
 # Initialize the OpenAI client
 load_dotenv(dotenv_path="./api.env")
-api_key = os.getenv("API_KEY")
 
-
-client = OpenAI(api_key=api_key)
+client = OpenAI()
 
 @app.route('/')
 def home():
