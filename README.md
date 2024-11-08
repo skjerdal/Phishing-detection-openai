@@ -1,6 +1,6 @@
 # Phishingdeteksjon med OpenAI
 
-*Av Thomas Skjerdal, August Langfeldt, Sivert Brattgjerd, November 2024*
+*Av Thomas Skjerdal, August Langfeldt, Sivert Brattgjerd, 8. November 2024*
 
 ---
 
