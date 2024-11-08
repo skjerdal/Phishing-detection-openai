@@ -14,7 +14,7 @@
 
 ---
 
-## Beskriv Problemet
+## Beskrivelse av problemet
 
 ### Scope
 
