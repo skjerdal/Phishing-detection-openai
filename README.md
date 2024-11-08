@@ -5,7 +5,7 @@
 ---
 
 ## Innholdsfortegnelse
-1. [Beskriv Problemet](#beskriv-problemet)
+1. [Beskrivelse av problemet](#beskriv-problemet)
 2. [Metrikkar](#metrikkar)
 3. [Data](#data)
 4. [Modellering](#modellering)
