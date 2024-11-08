@@ -1,6 +1,7 @@
 # Phishingdeteksjon med OpenAI
 
 *Av Thomas Skjerdal, August Langfeldt, Sivert Brattgjerd, 8. November 2024*
+**[Test det ut](https://phishing-analyzer.skjerdal.me/)**
 
 ---
 
