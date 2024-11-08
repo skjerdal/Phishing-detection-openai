@@ -20,6 +20,16 @@
             text-transform: uppercase;
             letter-spacing: 1px;
         }
+        .disclaimer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.875rem;
+        }
     </style>
 </head>
 <body class="bg-gray-100 min-h-screen gradient-bg">
@@ -40,6 +50,11 @@
                 <p class="mt-2">Analyzing...</p>
             </div>
         </div>
+    </div>
+
+    <!-- Disclaimer -->
+    <div class="disclaimer">
+        Disclaimer: This phishing analyzer program is intended as a tool to assist in identifying potential phishing attempts. While we strive for accuracy, we cannot guarantee that every phishing attempt will be detected. Use this tool at your own risk. We are not liable for any losses, damages, or issues that may arise from reliance on this tool. Always practice caution and verify any suspicious messages independently.
     </div>
     <script>
         document.getElementById('analyzeForm').addEventListener('submit', async (e) => {
